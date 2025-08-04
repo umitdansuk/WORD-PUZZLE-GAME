@@ -2,7 +2,7 @@
 
 İki oyunculu, gerçek zamanlı kelime tabanlı mobil oyun
 
-## 📋 Proje Hakkında
+## 📋 Proje Hakkında 
 
 Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet edebildiği dinamik bir kelime oyunudur. Oyuncular belirli süre içerisinde ekranda sunulan harflerle anlamlı kelimeler üretmeye çalışırken, mayınlı kelimelere denk gelmekten kaçınmalıdır.
 
