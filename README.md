@@ -1,4 +1,4 @@
-# Kelime Mayınları 🎮💣
+ # Kelime Mayınları 🎮💣
 
 İki oyunculu, gerçek zamanlı kelime tabanlı mobil oyun
 
