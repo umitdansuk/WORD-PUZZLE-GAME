@@ -9,7 +9,7 @@ Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet 
 ## ✨ Özellikler 
 
 - 🎯 **İki Kişilik Oyun**: Gerçek zamanlı çok oyunculu deneyim 
-- 🌐 **Çevrimiçi Oynanabilir**: Farklı cihazlardan bağlanma imkanı
+- 🌐 **Çevrimiçi Oynanabilir**: Farklı cihazlardan bağlanma imkanı 
 - ⚡ **Gerçek Zamanlı İletişim**: Socket tabanlı hızlı veri aktarımı 
 - 🎲 **Dinamik İçerik**: Her oyun farklı harfler ve mayın konumları
 - 📱 **Mobil Optimize**: Kullanıcı dostu arayüz tasarımı
