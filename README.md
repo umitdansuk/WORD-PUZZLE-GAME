@@ -14,7 +14,7 @@ Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet 
 - 🎲 **Dinamik İçerik**: Her oyun farklı harfler ve mayın konumları 
 - 📱 **Mobil Optimize**: Kullanıcı dostu arayüz tasarımı
 - 🚀 **Çoklu Oyun Desteği**: Aynı anda birden fazla oyun 
- 
+  
 ## 🛠️ Teknolojiler
 
 - **Platform**: Mobile (Android)
