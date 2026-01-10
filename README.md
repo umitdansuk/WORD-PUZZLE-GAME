@@ -18,7 +18,7 @@ Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet 
 ## 🛠️ Teknolojiler
 
 - **Platform**: Mobile (Android)
-- **Programlama Dili**: Dart
+- **Programlama Dili**: Dart 
 - **Framework**: Flutter
 - **Geliştirme Ortamı**: Android Studio
 - **Ağ İletişimi**: Socket Programming (TCP/IP)
