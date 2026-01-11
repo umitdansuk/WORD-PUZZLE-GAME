@@ -7,7 +7,7 @@
 Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet edebildiği dinamik bir kelime oyunudur. Oyuncular belirli süre içerisinde ekranda sunulan harflerle anlamlı kelimeler üretmeye çalışırken, mayınlı kelimelere denk gelmekten kaçınmalıdır.
 
 ## ✨ Özellikler 
- 
+   
 - 🎯 **İki Kişilik Oyun**: Gerçek zamanlı çok oyunculu deneyim  
 - 🌐 **Çevrimiçi Oynanabilir**: Farklı cihazlardan bağlanma imkanı 
 - ⚡ **Gerçek Zamanlı İletişim**: Socket tabanlı hızlı veri aktarımı  
