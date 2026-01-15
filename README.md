@@ -16,7 +16,7 @@ Kelime Mayınları, iki oyuncunun gerçek zamanlı olarak birbirleriyle rekabet 
 - 🚀 **Çoklu Oyun Desteği**: Aynı anda birden fazla oyun 
    
 ## 🛠️ Teknolojiler
- 
+  
 - **Platform**: Mobile (Android)
 - **Programlama Dili**: Dart 
 - **Framework**: Flutter
